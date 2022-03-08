@@ -4,7 +4,10 @@
 3. We train a traditional SVM classifier using five-fold cross-validation to classify these features
 
 
-Below is one related work of extracting features from AlexNet and classifying them using SVM
+Below is one related work of extracting features from [AlexNet and classifying them using SVM](https://github.com/heaventian93/HookahImages):
+
+
 `
 Zhang, Y., Allem, J. P., Unger, J. B., & Cruz, T. B. (2018). Automated identification of hookahs (waterpipes) on instagram: an application in feature extraction using convolutional neural network and support vector machine classification. Journal of medical Internet research, 20(11), e10513.
 `
+
