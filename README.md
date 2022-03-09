@@ -11,3 +11,5 @@ Below is one related work of extracting features from [AlexNet and classifying t
 Zhang, Y., Allem, J. P., Unger, J. B., & Cruz, T. B. (2018). Automated identification of hookahs (waterpipes) on instagram: an application in feature extraction using convolutional neural network and support vector machine classification. Journal of medical Internet research, 20(11), e10513.
 `
 
+
+You can also try to extract features using your own datasets.
